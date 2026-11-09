@@ -1,4 +1,4 @@
-app_tag = "release/1.1.0"
+app_tag = "release/1.1.1"
 ui_tag = "release/2.1.0"
 worker_tag = "release/1.4.0"
 loader_tag = "release/1.2.0"
